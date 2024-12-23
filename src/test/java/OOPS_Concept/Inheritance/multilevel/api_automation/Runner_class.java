@@ -9,7 +9,7 @@ public class Runner_class {
 
        Common_To_All c = new Test();
        c.openExcelfile();
-       c.
+
 
     }
 }
