@@ -1,3 +1,12 @@
 
-[
-java:S1128"9Remove this unused import 'OOPs_2.Hierarichical.ex1.Car'.(¼Ê§·ûÿÿÿÿ8¦Õ¨¿2
+
+java:S1854"9Remove this useless assignment to local variable "munni".(à“°çûÿÿÿÿ8°²Î¿2J$0f99bad8-1314-45f1-95fc-2ba23a490deb
+|
+java:S1854"9Remove this useless assignment to local variable "ashok".(‡û¥”8°²Î¿2J$84523056-eca2-46dd-8d3a-b64a6800f82f
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ŞÖÇáúÿÿÿÿ8”°²Î¿2J$fcc0e6e2-969a-4efc-9bf3-084e86236906
+m
+java:S1481"*Remove this unused "ashok" local variable.(‡û¥”8•°²Î¿2J$2b7ea5a6-da90-4767-878a-a48716c12eb2
+r
+java:S1481"*Remove this unused "munni" local variable.(à“°çûÿÿÿÿ8•°²Î¿2J$a09da36b-0f9f-4f7a-9d39-ee073e6ef695
+
+java:S1128"9Remove this unused import 'OOPs_2.Hierarichical.ex1.Car'.(¼Ê§·ûÿÿÿÿ8–°²Î¿2J$ed6669ed-e332-4e5e-8678-9b325c0b4cd0
