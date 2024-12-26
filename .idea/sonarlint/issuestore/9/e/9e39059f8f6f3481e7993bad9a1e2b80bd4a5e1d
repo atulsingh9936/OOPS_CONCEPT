@@ -1,0 +1,34 @@
+
+
+java:S1854&"7Remove this useless assignment to local variable "a12".(¥åïËşÿÿÿÿ8’í¿2J$abeb8553-ae36-4486-8157-a8dc762b421f
+
+java:S1854%"7Remove this useless assignment to local variable "a11".(Îş„‹ùÿÿÿÿ8‰şí¿2J$a7cf8796-d978-407b-b51a-80a1f2f2d5f8
+y
+java:S1854"6Remove this useless assignment to local variable "a2".(ï¢¶Û8‰şí¿2J$111b1a91-830b-4a39-8d41-27c2fe1256f8
+~
+java:S1854"6Remove this useless assignment to local variable "f1".(ëÇÕµıÿÿÿÿ8‰şí¿2J$4addbafa-64c4-4e67-bae8-116ec7eb93f6
+~
+java:S1854"6Remove this useless assignment to local variable "d1".(—¬·ùùÿÿÿÿ8‰şí¿2J$d2ac23cd-0d32-4c68-a14e-d8d877ccf8db
+w
+java:S1854"5Remove this useless assignment to local variable "l".(«³f8‹şí¿2J$35970ad6-37bf-43f1-a7cf-f857847bda39
+y
+java:S1854"6Remove this useless assignment to local variable "a3".(®¬ïœ8‹şí¿2J$deeedb7f-2f63-4dec-bec8-11c82cad656a
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ßİ¡úÿÿÿÿ8‹şí¿2J$80db67f0-9f13-4fe9-8291-afac99a2eea8
+j
+java:S1481"'Remove this unused "a3" local variable.(®¬ïœ8‹şí¿2J$7730d6ef-fb55-414a-8872-fc0ceb2d9161
+n
+java:S1481"&Remove this unused "b" local variable.(«£Òæıÿÿÿÿ8‹şí¿2J$e7b52e88-60a5-435f-a034-38c0de98296c
+h
+java:S1481"&Remove this unused "l" local variable.(«³f8‹şí¿2J$47abe84a-392c-4eaf-ba23-e9d8cf3c2581
+o
+java:S1481"'Remove this unused "d1" local variable.(—¬·ùùÿÿÿÿ8‹şí¿2J$4bb99314-c1b3-46c4-ba89-a8c4001daac5
+o
+java:S1481"'Remove this unused "f1" local variable.(ëÇÕµıÿÿÿÿ8‹şí¿2J$746eb43f-686e-4667-beb9-a7a50ca4eff3
+j
+java:S1481"'Remove this unused "a2" local variable.(ï¢¶Û8‹şí¿2J$c0d7916d-cf51-4b89-ae4c-eb516f173328
+
+java:S5738%"HRemove this call to a deprecated method, it has been marked for removal.(Îş„‹ùÿÿÿÿ8¬şí¿2J$5667ad16-c227-4b9d-9f64-e5e2995ff59c
+p
+java:S1481%"(Remove this unused "a11" local variable.(Îş„‹ùÿÿÿÿ8¬şí¿2J$cd94f279-ca87-467a-a91a-57f0f40d7192
+p
+java:S1481&"(Remove this unused "a12" local variable.(¥åïËşÿÿÿÿ8’í¿2J$2125df9c-86a6-4022-abc4-9d560109d4e2

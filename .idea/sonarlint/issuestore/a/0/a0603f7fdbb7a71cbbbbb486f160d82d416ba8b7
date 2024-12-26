@@ -1,0 +1,17 @@
+
+y
+java:S1854"6Remove this useless assignment to local variable "a1".(¯œìÞ8ý˜¼û¿2J$fe9ee430-4091-4295-9420-0004a13afba6
+}
+java:S1854"5Remove this useless assignment to local variable "a".(¦¹­Øÿÿÿÿÿ8ý˜¼û¿2J$85fb2869-3ee2-4ea9-8a32-7d72f5144968
+}
+java:S1854"5Remove this useless assignment to local variable "f".( ƒ‚‹üÿÿÿÿ8ý˜¼û¿2J$74281f3d-3967-48ff-b03d-d9f353a3b311
+r
+java:S1172"/Remove this unused method parameter "filename".(äÏé¾8ý˜¼û¿2J$963c77f6-a5c4-445f-a3d6-d0d78394b02c
+n
+java:S1481"&Remove this unused "a" local variable.(¦¹­Øÿÿÿÿÿ8ý˜¼û¿2J$a605af3d-24ec-45eb-a6f2-592bb8fa1f39
+j
+java:S1481"'Remove this unused "a1" local variable.(¯œìÞ8ý˜¼û¿2J$a29abca2-5c39-449c-83ab-b1ae697b7340
+n
+java:S1481"&Remove this unused "f" local variable.( ƒ‚‹üÿÿÿÿ8ý˜¼û¿2J$a7489f2e-4009-4701-a647-7d251bac8b73
+w
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8þ˜¼û¿2J$a604ecea-b9f8-4b04-8ac8-81e9c8edace7

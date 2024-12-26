@@ -1,0 +1,15 @@
+
+y
+java:S1854
+"6Remove this useless assignment to local variable "i1".(ÈúÏ8‹ı¯í¿2J$6c7061cb-9028-4e19-b5cf-50c20748a704
+y
+java:S1854	"6Remove this useless assignment to local variable "d1".(‰ÏêÓ8Œı¯í¿2J$bcd93c41-fd0b-4cd9-9b39-cd917b4249cd
+~
+java:S1854"6Remove this useless assignment to local variable "s1".(‡‰ÿïûÿÿÿÿ8Œı¯í¿2J$b72d00d8-5e24-49d9-95d1-ec7f2b9e80aa
+o
+java:S1481"'Remove this unused "s1" local variable.(‡‰ÿïûÿÿÿÿ8Œı¯í¿2J$7b074f7e-a26e-45d7-a11a-8fb41b60119a
+j
+java:S1481	"'Remove this unused "d1" local variable.(‰ÏêÓ8Œı¯í¿2J$e254d6ab-1268-4621-bfc6-c845bfb2f923
+j
+java:S1481
+"'Remove this unused "i1" local variable.(ÈúÏ8Œı¯í¿2J$b4b0e16d-559a-4f37-a8a7-dee6b1f00b35
